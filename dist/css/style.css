@@ -2,11 +2,11 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-.bg-pink {
+.pbg-nav {
   background-color: #ffc2d0;
 }
 
-.bg-pink img {
+.pbg-nav img {
   width: auto;
   height: 7.8125rem;
 }
@@ -14,5 +14,10 @@ body {
 .navbar .nav-item .nav-link {
   font-size: large;
   text-align: center;
+}
+
+.pbg__img img {
+  width: auto;
+  height: 17.1875rem;
 }
 /*# sourceMappingURL=style.css.map */

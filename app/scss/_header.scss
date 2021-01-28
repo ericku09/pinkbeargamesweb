@@ -1,4 +1,4 @@
-.bg-pink {
+.pbg-nav {
     background-color: $pink;
 
     img {
@@ -10,4 +10,11 @@
 .navbar .nav-item .nav-link {
     font-size: large;
     text-align: center;
+}
+
+.pbg__img {
+    img {
+        width: auto;
+        height: 17.1875rem;
+    }
 }
