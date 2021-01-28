@@ -1,0 +1,18 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.bg-pink {
+  background-color: #ffc2d0;
+}
+
+.bg-pink img {
+  width: auto;
+  height: 7.8125rem;
+}
+
+.navbar .nav-item .nav-link {
+  font-size: large;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
