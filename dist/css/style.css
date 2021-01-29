@@ -2,11 +2,11 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-.pbg-nav {
+.pbg-nav, footer {
   background-color: #ffc2d0;
 }
 
-.pbg-nav img {
+.pbg-nav img, footer img {
   width: auto;
   height: 7.8125rem;
 }
