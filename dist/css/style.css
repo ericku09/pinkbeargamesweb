@@ -2,6 +2,12 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+a,
+a:visited,
+a:hover {
+  text-decoration: none;
+}
+
 .pbg-nav, footer {
   background-color: #ffc2d0;
 }
